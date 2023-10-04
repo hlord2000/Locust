@@ -1,0 +1,111 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid cf97ee2f-94c3-4687-a5ea-772ffbcf72d3)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 170.18 93.98) (size 45.72 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7971fec2-3fd2-4b25-be5e-2a60f6dac3ce)
+    (property "Sheetname" "Motors_Encoders" (at 170.18 93.2684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Motors_Encoders.kicad_sch" (at 170.18 118.6946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LocustV0.1"
+        (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 118.11 93.98) (size 45.72 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 98e20ad1-cb58-4218-be13-e4b91b81e70b)
+    (property "Sheetname" "IndicatorLEDs" (at 118.11 93.2684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "IndicatorLEDs.kicad_sch" (at 118.11 118.6946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "LED_CTRL_3" input (at 118.11 109.22 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 37ef2163-e27a-4288-86e1-b43c8c339174)
+    )
+    (pin "LED_CTRL_2" input (at 118.11 106.68 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 05b9ea9d-8e0c-4751-8d06-a161bd7f3038)
+    )
+    (pin "LED_CTRL_1" input (at 118.11 104.14 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid db7153d5-5274-4c0c-846a-9a2c6bb49a68)
+    )
+    (instances
+      (project "LocustV0.1"
+        (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 118.11 59.69) (size 45.72 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid cb4d672f-85c6-4219-850d-78b1438ca6c2)
+    (property "Sheetname" "PowerSupply" (at 118.11 58.9784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PowerSupply.kicad_sch" (at 118.11 84.4046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LocustV0.1"
+        (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 170.18 59.69) (size 45.72 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid dbecc8a3-5577-45b3-be38-82d55c334f13)
+    (property "Sheetname" "CutSheetSensors" (at 170.18 58.9784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "CutSheetSensors.kicad_sch" (at 170.18 84.4046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LocustV0.1"
+        (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 67.31 59.69) (size 45.72 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e3f30d2e-23cd-46a9-88f1-c4f788ddc0b7)
+    (property "Sheetname" "MCU" (at 67.31 58.9784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MCU.kicad_sch" (at 67.31 84.4046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LocustV0.1"
+        (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
