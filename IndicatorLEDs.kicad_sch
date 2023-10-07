@@ -469,7 +469,7 @@
     )
     (pin "1" (uuid 641fb598-20f7-42f2-86af-82084aa0b47b))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "#PWR024") (unit 1)
         )
@@ -497,7 +497,7 @@
     )
     (pin "1" (uuid a83d5fae-212f-482b-99cd-fd2f88c85fa9))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "#PWR025") (unit 1)
         )
@@ -530,7 +530,7 @@
     (pin "5" (uuid 58a5735f-e785-4116-9b12-239e90e77a66))
     (pin "MP" (uuid caeab85e-7117-4103-ae01-0c9d895cbea1))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "J6") (unit 1)
         )
@@ -559,7 +559,7 @@
     (pin "1" (uuid 6489adda-3a45-4f69-b402-a0faef1d964f))
     (pin "2" (uuid c20d0bd9-1299-4e5a-af20-ba29a76539a0))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "R6") (unit 1)
         )
@@ -587,7 +587,7 @@
     )
     (pin "1" (uuid 69a25880-329b-4fa6-a0e4-084843edc3c0))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "#PWR026") (unit 1)
         )
@@ -616,7 +616,7 @@
     (pin "1" (uuid 7cfee29d-b55a-4450-90a2-0f05bfac1b85))
     (pin "2" (uuid 1904d4d1-b746-4c39-bab2-a0b9f9b30e36))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "R5") (unit 1)
         )
@@ -645,7 +645,7 @@
     (pin "1" (uuid e40e1113-b36a-4512-937b-a2a37acf8583))
     (pin "2" (uuid 589ea9c8-de2a-4990-90c9-627ae0b45608))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "R7") (unit 1)
         )
@@ -673,7 +673,7 @@
     )
     (pin "1" (uuid 6e27c624-29cc-42a5-8246-598e8549d59b))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "#PWR027") (unit 1)
         )
@@ -712,7 +712,7 @@
     (pin "2" (uuid f991c661-1530-469c-92df-dc2d8b171282))
     (pin "3" (uuid b1690746-81c0-4b10-8495-39b0859493a9))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "Q6") (unit 1)
         )
@@ -740,7 +740,7 @@
     )
     (pin "1" (uuid bb5397fa-e925-44d1-be24-d1ae2d646967))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "#PWR028") (unit 1)
         )
@@ -779,7 +779,7 @@
     (pin "2" (uuid 3be7599b-0a3d-4a88-a80a-f9ae5c2f4486))
     (pin "3" (uuid 59f96af2-dd41-4c1d-b6ab-4d783bc1a87f))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "Q5") (unit 1)
         )
@@ -818,7 +818,7 @@
     (pin "2" (uuid bae4ae40-797c-45ec-b8a4-556098e92a17))
     (pin "3" (uuid d0c31254-0426-432f-b8b9-2eea44469497))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "Q4") (unit 1)
         )

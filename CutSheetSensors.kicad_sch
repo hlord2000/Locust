@@ -296,7 +296,7 @@
     )
     (pin "1" (uuid 1e750b9d-1939-4d58-ac27-b98647a00311))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "#PWR02") (unit 1)
         )
@@ -327,7 +327,7 @@
     (pin "3" (uuid 0fbb416f-e59e-4330-8742-c739739c7bcd))
     (pin "MP" (uuid 86282c24-ead1-4c69-b413-22bb8805be79))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "J2") (unit 1)
         )
@@ -355,7 +355,7 @@
     )
     (pin "1" (uuid 5a2f3134-c56b-4251-ae0c-38491949fab5))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "#PWR013") (unit 1)
         )
@@ -383,7 +383,7 @@
     )
     (pin "1" (uuid deeee330-a821-45d2-9104-e8b27144b946))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "#PWR03") (unit 1)
         )
@@ -411,7 +411,7 @@
     )
     (pin "1" (uuid 1e2c79a6-910b-464b-b329-e4d63a9c63f8))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "#PWR014") (unit 1)
         )
@@ -439,7 +439,7 @@
     )
     (pin "1" (uuid a9270016-88e4-42be-b723-ff2010f6285d))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "#PWR015") (unit 1)
         )
@@ -470,7 +470,7 @@
     (pin "3" (uuid befd429d-d05f-4f6c-97b7-c7e3bdc256f0))
     (pin "MP" (uuid fec7399a-ebcf-461c-b97c-45fae0ca5019))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "J1") (unit 1)
         )
@@ -501,7 +501,7 @@
     (pin "3" (uuid 7e004473-02c6-4834-9ac1-0c551feea23b))
     (pin "MP" (uuid b69e08cc-74f7-4347-a4ca-ff712883f363))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "J3") (unit 1)
         )
@@ -529,7 +529,7 @@
     )
     (pin "1" (uuid 7b941627-3164-4eef-acb2-cb53d1a13f75))
     (instances
-      (project "LocustV0.1"
+      (project "Locust"
         (path "/cf97ee2f-94c3-4687-a5ea-772ffbcf72d3"
           (reference "#PWR01") (unit 1)
         )
